@@ -8,6 +8,8 @@ Henter og viser sanntidsvalgdata fra et REST API
 Presenterer partier og resultater per valgdistrikt
 Dynamisk og responsivt brukergrensesnitt med Compose
 Robust feilhåndtering og loading states
+
+
 Læringsmål:
 
 Evne til å bygge en fullstendig app fra bunnen av
